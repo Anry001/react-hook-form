@@ -1,3 +1,3 @@
 # react-hook-form
 Login form with MUI.
-react-hook-form
+Also used react-hook-form to handle form validation, submission, and error handling in a simple and efficient way.
